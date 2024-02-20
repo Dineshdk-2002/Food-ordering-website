@@ -1,6 +1,9 @@
 Foodify (food oredering website)
 
+Welcome to Foodify, your ultimate destination for delicious dining experiences delivered right to your doorstep! Our food ordering website offers a seamless and convenient way to satisfy your cravings with a diverse selection of cuisines from top-rated local restaurants.
+
 ![Preview Img](preview/img-1.png)
+Home page
 ![Preview Img](preview/img-2.png)
 ![Preview Img](preview/img-3.png)
 ![preview Img](preview/img-4.png)
